@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik Kumar Raghumurti Bhat</h1>
 <h3 align="center">With 5 years of professional experience including software development and in the fields of data science such as Data Engineering, Data Management, Data Analytics and Data Visualization, I deliver practical business solutions for your data related problems. Having a Master's degree in Big data and Business analytics has strengthened my core knowledge of working around data and gaining expertise in the field. Responsible for developing regression, classification, predictive and recommender models in Big Data environment with well defined projects satisfying customer and business needs.</h3>
 
-<img align="right" alt="ml" width="600" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
+<img align="right" alt="ml" width="450" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikbhat21&label=Profile%20views&color=0e75b6&style=flat" alt="karthikbhat21" /> </p>
 
